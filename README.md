@@ -7,6 +7,8 @@ Your CSV file should contain a single column with a header, then the list of you
 
 Your SMTP provider would determine how many mails you can send in a day.
 
+You can add attachments, it's optional.
+
 You can customize each mail a receiver receives for eg; abc@gmail.com. when ever you write 'usern', it will appear as the username
 from the email. Dear usern would give Dear abc.
 
